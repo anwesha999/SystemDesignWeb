@@ -1,0 +1,8 @@
+{
+  "name": "Architectural Mastery: System Design Pro",
+  "description": "A comprehensive SDE-3 level system design mentor that provides deep-dive HLD, Java-based LLD, and architectural visualizations for complex systems like Uber, Instagram, and Spotify.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
